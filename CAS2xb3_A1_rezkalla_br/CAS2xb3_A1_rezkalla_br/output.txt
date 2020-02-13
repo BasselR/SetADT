@@ -1,0 +1,75 @@
+* Starting test cases for Set *
+
+Testing testIsEqual...
+Test Case 1: PASSED
+Test Case 2: PASSED
+Finished testIsEqual!
+
+Testing testUnion...
+Test Case 1: PASSED
+Test Case 2: PASSED
+Test Case 3: PASSED
+Finished testUnion!
+
+Testing testIntersection...
+Test Case 1: PASSED
+Test Case 2: PASSED
+Test Case 3: PASSED
+Test Case 4: PASSED
+Finished testIntersection!
+
+Testing testDifference...
+Test Case 1: PASSED
+Test Case 2: PASSED
+Test Case 3: PASSED
+Test Case 4: PASSED
+Finished testDifference!
+
+Testing testProduct...
+Test Case 1: PASSED
+Test Case 2: PASSED
+Test Case 3: PASSED
+Finished testProduct!
+
+Testing testIsSubset...
+Test Case 1: PASSED
+Test Case 2: PASSED
+Test Case 3: PASSED
+Test Case 4: PASSED
+Test Case 5: PASSED
+Test Case 6: PASSED
+Finished testIsSubset!
+
+Testing testGetCount...
+Test Case 1: PASSED
+Test Case 2: PASSED
+Test Case 3: PASSED
+Finished testGetCount!
+
+Testing testToString...
+Test Case 1: PASSED
+Test Case 2: PASSED
+Test Case 3: PASSED
+Finished testToString!
+
+Testing testAdd...
+Test Case 1: PASSED
+Test Case 2: PASSED
+Test Case 3: PASSED
+Test Case 4: PASSED
+Finished testAdd!
+
+Testing testRemove...
+Test Case 1: PASSED
+Test Case 2: PASSED
+Test Case 3: PASSED
+Test Case 4: PASSED
+Finished testRemove!
+
+Testing testGetStrArr...
+Test Case 1: PASSED
+Test Case 2: PASSED
+Finished testGetStrArr!
+
+* Finished test cases for Set *
+
